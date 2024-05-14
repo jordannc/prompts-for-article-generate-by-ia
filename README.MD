@@ -16,8 +16,7 @@
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 titulos para artigo com o assunto "a criação de uma i.a. de melodias baseada em partituras"                                                                                                                                                                                                    |
-| conteúdo | Crie um artigo baseado e dividido pelos seguintes blocos de conteudo: 1) Porque usar partituras ao invés do audio como input em um I.A.; 2) Qual o modelo de I.A. que pode aprender a gerar novas melodias, sendo treinada com partituras; 3) Porque o modelo deverá ser treinado por cada individuo, considerando o que ele considera como "boa melodia"; 4) Alguns inputs possiveis para o treinamento do modelo(cada nota devera ter valores de index, pitch, volume e duração); 5) Estimule a pesquisa do assunto; 6) Faça um call to action para minhas redes sociais; 7) Coloque 3 hashtags que façam sentido com o conteudo do artigo {REGRAS} 1) Cada bloco de conteudo não poderá ter mais de 5 linhas; 2) Me explique de maneira informal, como se eu fosse um leigo no assunto; |
-*Obs: Alguns conteúdos do prompt foram removidos após a revisão manual.*
+| conteúdo | Crie um artigo baseado e dividido pelos seguintes blocos de conteudo: 1) Porque usar partituras ao invés do audio como input em um I.A.; 2) Qual o modelo de I.A. que pode aprender a gerar novas melodias, sendo treinada com partituras; 3) Porque o modelo deverá ser treinado por cada individuo, considerando o que ele considera como "boa melodia"; 4) Alguns inputs possiveis para o treinamento do modelo(cada nota devera ter valores de index, pitch, volume e duração); 5) Estimule a pesquisa do assunto; 6) Faça um call to action para minhas redes sociais; 7) Coloque 3 hashtags que façam sentido com o conteudo do artigo {REGRAS} 1) Cada bloco de conteudo não poderá ter mais de 5 linhas; 2) Me explique de maneira informal, como se eu fosse um leigo no assunto;|
 
 **Lexica.art：**
 
@@ -30,3 +29,4 @@ No léxica utilizamos o acervo público de imagens geradas por outras pessoas, o
 
 - Conteúdo gerado via ChatGPT
 - Imagens do acervo público geradas via Lexica.art
+*Obs: Alguns conteúdos do prompt foram removidos após a revisão manual.*
