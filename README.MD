@@ -29,4 +29,5 @@ No léxica utilizamos o acervo público de imagens geradas por outras pessoas, o
 
 - Conteúdo gerado via ChatGPT
 - Imagens do acervo público geradas via Lexica.art
-*Obs: Alguns conteúdos do prompt foram removidos após a revisão manual.*
+
+#### *Obs: Alguns conteúdos do prompt foram removidos após a revisão manual.*
